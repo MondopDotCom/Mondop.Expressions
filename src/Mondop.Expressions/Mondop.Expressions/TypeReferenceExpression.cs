@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Mondop.Expressions
+﻿namespace Mondop.Expressions
 {
     public class TypeReferenceExpression: Expression
     {
